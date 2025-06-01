@@ -42,9 +42,10 @@
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Lenguaje Personalizado](#-lenguaje-personalizado)
 - [Máquina de Turing](#-máquina-de-turing)
+- [Visualización del Proyecto](#-visualización-del-proyecto)
 - [Características](#-características)
 - [Ejemplos](#-ejemplos)
-- [Visualización del Proyecto](#-visualización-del-proyecto)
+
 
 ## 🚀 Instalación
 
