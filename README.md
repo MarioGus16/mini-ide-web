@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-## 📋 Tabla de Contenidos
+## 📋 Tabla de Contenido
 
 - [Instalación](#-instalación)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
@@ -54,7 +54,7 @@
 - Python 3.x
 - pip (gestor de paquetes de Python)
 
-### Configuración Rápida
+### Ejecución
 
 ```bash
 Clonar o descargar el proyecto
@@ -66,7 +66,7 @@ pip install flask
 python app.py
 ```
 
-Una vez ejecutado, abre tu navegador y visita `http://localhost:5000`
+Abre tu navegador y visita `http://localhost:5000`
 
 ## 📂 Estructura del Proyecto
 
