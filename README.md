@@ -91,7 +91,7 @@ mini-ide-web/
 
 ### 🔧 Componentes Principales
 
-- **app.py**: Configura el servidor Flask 
+- **app.py**: Configura el servidor Flask y maneja las rutas
 - **lexer.py**: Implementa el análisis léxico del lenguaje
 - **parser.py**: Realiza el análisis sintáctico y validación de reglas
 - **turing.py**: Simula la máquina de Turing para validación de cadenas
